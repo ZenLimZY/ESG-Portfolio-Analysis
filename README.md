@@ -1,5 +1,6 @@
 # ESG-Portfolio-Analysis
 To Investigate the returns of ESG and Non-ESG Portfolios 
+
 Questions are...
 1. From November 2012 to December 2020, what are the cumulative returns for portfolios and GMB factor provided?
 2. What are the risk-adjusted returns with respect to different asset pricing models?
